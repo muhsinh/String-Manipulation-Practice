@@ -1,7 +1,6 @@
-# muhsin_projects
-All the projects I have done
+# String Manipulation
 
-#String Manipulation
+#What I did
 Below is all the manipulation I am doing to the string: 
 1.In the first line, print the third character of this string.
 2.In the second line, print the second to last character of this string.
